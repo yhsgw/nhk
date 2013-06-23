@@ -6,18 +6,6 @@ NHK (Japan Broadcasting Corporation) Schedule API
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'nhk'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install nhk
-
 ## Usage
 
 TODO: Write usage instructions here
