@@ -1,6 +1,7 @@
-# Nhk
+# nhk
 
-TODO: Write a gem description
+NHK (Japan Broadcasting Corporation) Web API
+[http://www2.nhk.or.jp/api/](http://www2.nhk.or.jp/api/)
 
 ## Installation
 
