@@ -1,5 +1,5 @@
 require "nhk/version"
 
-module Nhk
+module NHK
   # Your code goes here...
 end
