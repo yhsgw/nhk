@@ -1,3 +1,4 @@
+#-*- coding:utf-8 -*-
 require 'nhk/version'
 require 'date'
 require 'net/http'
